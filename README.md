@@ -1,5 +1,7 @@
 # Nurse API 
 
+![Nurse API](http://desmond.imageshack.us/Himg337/scaled.php?server=337&filename=nurseapicompileyourcode.png&res=medium)
+
 Nurse API is a sandboxing solution.
 
 ## Bridge API
@@ -11,8 +13,6 @@ To lauch the api :
     node app.js
     
 To access to the documentation go to http://localhost:3005/
-
-![Nurse API](http://desmond.imageshack.us/Himg337/scaled.php?server=337&filename=nurseapicompileyourcode.png&res=medium)
 
 ### Unit testing 
 
