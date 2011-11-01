@@ -5,7 +5,14 @@ Nurse API is a sandboxing solution.
 ## Bridge API
 
 The API bridge uses Node.js, Express.
-For documentation refer to the website himself (/).
+
+To lauch the api :
+
+    node app.js
+    
+To access to the documentation go to http://localhost:3005/
+
+![Nurse API](http://desmond.imageshack.us/Himg337/scaled.php?server=337&filename=nurseapicompileyourcode.png&res=medium)
 
 ### Unit testing 
 
@@ -18,5 +25,6 @@ Seccomp nurse is an Advanced Sandboxing Solution. It uses the Unix syscall **Sec
 # Todo
 
 - Handle compiled language (need to generate different out file)
-
+- Better Doc
+- Integrate seccomp-nurse
 
